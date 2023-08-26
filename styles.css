@@ -1,0 +1,55 @@
+/* body{
+    color: black;
+   
+ 
+}
+p {
+    font-family : Tahoma , Arial , sans-serif; 
+    color: blueviolet;
+}
+a{
+
+    line-height: 18pt;
+    text-decoration: none;
+}
+
+article > p{
+    position:;
+    background-color: beige;
+}
+
+a:link{
+    background-color: beige;
+ 
+    color:steelblue;
+}
+.newItem{
+    background-color: beige;
+    background-repeat: repeat-y;
+}
+/* a:active{
+    color: green;
+} 
+
+ a:hover{
+    color: orange;
+} */
+/* 
+a:visited{
+    
+    color: pink;
+    color: #9999ff;
+    color: #000088;
+    max-width: 640px;
+}
+@media only screen and (max-width: 640px){
+    
+}  */
+
+
+
+.h1{
+    color: #f00;
+    border: thick double red;
+    border-radius: 20px;
+}
